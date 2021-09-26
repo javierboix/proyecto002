@@ -6,8 +6,9 @@
   <body>
     <p>P&aacute;gina de alumno 04</p>
     <a href="index.html">Volver a P&aacute;gina Princial</a><br>
+    <a href="alumno01.php">Volver a alumno01.php</a><br>
     <?php
-    echo "Estamos en la Página de alumno 04\r\n";
+    echo "Estamos en la Página de alumno 03\r\n";
     ?>
   </body>
 </html>
