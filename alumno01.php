@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
   <head>
-    <title>Alumno 02</title>
+    <title>Alumno 01</title>
   </head>
   <body>
     <p>P&aacute;gina de alumno 01</p>
